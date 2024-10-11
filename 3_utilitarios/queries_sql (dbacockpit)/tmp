@@ -1,0 +1,8 @@
+with c as (
+    select distinct ernam, kostl
+    from caufv
+)
+
+select distinct imrg.mdocm, imrg.readr, c.kostl, cskt.ltext from imrg
+left join c     on imrg.readr = c.ernam
+left join cskt  on cskt.kostl = c.kostl
