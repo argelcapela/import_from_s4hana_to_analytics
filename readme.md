@@ -60,3 +60,8 @@ Materiais e Exemplos de serviços OData desenvolvidos utilizando CDS Views ou AB
 
 ## 🦟 Erros/Feedback
 Identificou algum erro ou tem alguma sugestão? Por favor me informe, fico feliz em seguir aprendendo mais e melhorando.
+<br>
+<br>
+
+## 🔐 Licença
+<a href="LICENSE">GNU AFFERO GENERAL PUBLIC LICENSE, Copyright (c) 2024 Argel Capela</a>
