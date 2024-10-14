@@ -25,11 +25,10 @@ Materiais e Exemplos de serviços OData desenvolvidos utilizando CDS Views ou AB
 <br>
 
 ## 🧑‍🏫 Materiais de Estudo & Documentação
-<!--
-* <a href="#">Artigo Linkedin: Como importar dados do S/4HANA para o SAP Analytics Cloud?</a><br><br>-->
+<i>⚠️ Atenção: Este manual está disponível apenas para leitura direta via o link informado. Não é permitido o download ou qualquer tentativa de acesso não autorizado ao arquivo. Peço gentilmente que não insista utilizando métodos ilícitos.</i><br>
 * <a href="https://drive.google.com/file/d/1jWQMC4WDgWsgRIGKfNR93BnfGuavciVp/view">Manual: Como importar dados do S/4HANA para o SAP Analytics Cloud? (PDF)</a><br><br>
 <!--
-* <a href="#">Videoaula: Como importar dados do S/4HANA para o SAP Analytics Cloud</a> -->
+* <a href="#">Artigo Linkedin: Como importar dados do S/4HANA para o SAP Analytics Cloud?</a><br><br>-->
 
 
 <br>
