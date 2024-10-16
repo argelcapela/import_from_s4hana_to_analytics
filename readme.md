@@ -62,4 +62,4 @@ Identificou algum erro ou tem alguma sugestão? Por favor me informe, fico feliz
 <br>
 
 ## 🔐 Licença
-<a href="LICENSE">GNU AFFERO GENERAL PUBLIC LICENSE, Copyright (c) 2024 Argel Capela</a>
+<a href="LICENSE">MIT, Copyright (c) 2024 Argel Capela</a>
