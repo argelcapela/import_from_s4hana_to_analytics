@@ -51,7 +51,10 @@ Materiais e Exemplos de serviços OData desenvolvidos utilizando CDS Views ou AB
 <br>
 
 ## 🎯 Status do projeto
-* Concluído em versão 1.0
+<b>Concluído em versão 1.0</b><br><br>
+Próximas Atualizações:
+* Documentação:
+  * Resolução de Bugs frequentes OData Moderno(AdditionalMetadata only, Spras Field, etc...)
 
 <br>
 <br>
